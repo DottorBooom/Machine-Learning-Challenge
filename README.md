@@ -1,5 +1,6 @@
 # Machine-Learning-Challenge
-Repository dedicated to the course of 'Introduction to Machine Learning' in the undergraduate program of 'Artificial Intelligence and Data Analytics' during the academic year 2023/2024.
+
+In this repository, challenges that will take place throughout the course will be uploaded, along with solutions, prompts, and reports for result analysis. Additionally, various tutorials conducted during the year will be added to aid in understanding the provided and used code.
 
 ## Challenge Zero
 The zero challenge begins with providing a dataset containing information about some start-ups (features) and their origin state (labels). 
